@@ -1,10 +1,10 @@
 # EN.650.401/601 Introduction to Information Security
 
 ## Meetings:
-Tuesday/Thursday, 1:30–2:45 PM
+Tuesday/Thursday, 12:00–1:15 PM
 
 ## Location:
-Croft Hall G02
+Maryland 104
 
 ## Description:
 This course exposes students to the cross-disciplinary and broad information security field. It surveys a range of fundamental topics of information security principles, architecture, policy and standard, risk management, cryptography, physical, operation, system and network security mechanisms, and law and ethics, among others. This course includes lectures, case studies, and homework. Students will also complete independent study class projects.
@@ -16,7 +16,7 @@ Basic knowledge of computer system and information technology
 Dr. Xiangyang Li, xyli@jhu.edu Office: Malone Hall 311, 410-516-8521 Office hours: By appointment
 
 ## Teaching Assistant:
-Yu-Tsern Jou, yjou2@jhu.edu
+Robin Hung, robin@jhu.edu
 
 ## Textbook (Recommended):
 Mark Merkow; Jim Breithaupt, Information Security: Principles and Practices, Second Edition, Pearson IT Certification, 2014
