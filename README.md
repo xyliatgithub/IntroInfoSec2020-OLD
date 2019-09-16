@@ -27,7 +27,9 @@ Robin Hung, robin@jhu.edu
 ## Textbook (Recommended):
 
 Mark Merkow; Jim Breithaupt, Information Security: Principles and Practices, Second Edition, Pearson IT Certification, 2014
+
 Matt Bishop, Introduction to Computer Security, Addison Wesley, 2005
+
 Note: Additional reading materials would be distributed to class.
 
 ## Online Resources:
