@@ -1,6 +1,6 @@
 # Lab Assignment 1
 
-In this lab assignment, students will need to complete the CSRF lab module using the SEED Lab Ubuntu 16.04 VM.
+In this lab assignment, students will need to complete the CSRF lab module of the SEED Labs using Ubuntu 16.04 VM.
 
 ## Environment Setup
 
@@ -11,12 +11,12 @@ Go to [Lab Environment Setup page](https://seedsecuritylabs.org/lab_env.html) to
 
 ## Cross-Site Request Forgery Attack Lab (50 points)
 
-Please thoroughly read through the [lab description](https://seedsecuritylabs.org/Labs_16.04/PDF/Web_XSS_Elgg.pdf) and complete all the tasks listed on it. You will need to write a detailed report with adequate screenshots and explanations.
+Please thoroughly read through the [lab description](https://seedsecuritylabs.org/Labs_16.04/PDF/Web_CSRF_Elgg.pdf) and complete all the tasks listed on it. You will need to write a detailed report with adequate screenshots and explanations.
 
 ## Submission Details
 
-- Due date of this assignment will be announced on Blackboard.
-- You can work in a group up to two people. Each group only needs to submit one report in PDF format.
+- Due date of this assignment is announced on Blackboard.
+- You can work in a group of up to two people. Each group only needs to submit one report in PDF format.
 - Please list group members in your report explicitly.
 - Only typed reports are accepted.
 
