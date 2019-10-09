@@ -2,13 +2,13 @@
 
 In this lab, students will need to complete some tasks from _Packet Sniffing and Spoofing_ and _TCP/IP Attack_ lab modules using SEED Lab Ubuntu 16.04 VM.
 
-## 1. Packet Sniffing and Spoofing (25 points)
+## 1. Packet Sniffing and Spoofing (35 points)
 
 https://seedsecuritylabs.org/Labs_16.04/PDF/Sniffing_Spoofing.pdf
 
 Please complete only the **first lab task set**, which includes four tasks: (1) Sniffing Packets, (2) Spoofing ICMP Packets, (3) Traceroute, and (4) Sniffing and then Spoofing.
 
-## 2. TCP/IP Attack (25 points)
+## 2. TCP/IP Attack (15 points)
 
 https://seedsecuritylabs.org/Labs_16.04/PDF/TCP_Attacks.pdf
 
