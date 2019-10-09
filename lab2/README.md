@@ -18,7 +18,6 @@ Note that in this lab module you will need to launch multiple VMs under the same
 
 ## Submission Details
 
-- Due date of this assignment will be announced on Blackboard.
 - You can work in a group up to two people. Each group only needs to submit one report in PDF format.
 - Please list group members in your report explicitly.
 - Only typed reports are accepted.
