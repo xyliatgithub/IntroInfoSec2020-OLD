@@ -506,16 +506,16 @@ Then, launch the command with `firefox` command, and you should see the followin
 
 Before we can visit jhuws.edu using HTTPS, we have to import the root certificate (`ca1.crt`) so that the browser can trust that certificate. Launch Firefox and on the top right corner, click on the options icon and select 'Preferences'.
 
-![Firefox Preference](https://github.com/bguan-2018/BlockchainResearch/blob/master/Digital%20Certificate%20Lab%203/preference.png?raw=true =200x)
+<img src="https://raw.githubusercontent.com/bguan-2018/BlockchainResearch/master/Digital%20Certificate%20Lab%203/preference.png" alt="drawing" width="300"/>
 
 After you open Preferences, we can search for the option `Certificates` like such:
 
-![Firefox Certificate](https://github.com/bguan-2018/BlockchainResearch/blob/master/Digital%20Certificate%20Lab%203/certificate.png?raw=true =400x)
+![Firefox Certificate](https://raw.githubusercontent.com/bguan-2018/BlockchainResearch/master/Digital%20Certificate%20Lab%203/certificate.png)
 
 Click on `View Certificates`.
 This popup will appear, click on 'Import'.
 
-![Firefox Certificate Manager](https://github.com/bguan-2018/BlockchainResearch/blob/master/Digital%20Certificate%20Lab%203/certificate%20manager.png?raw=true =400x)
+![Firefox Certificate Manager](https://raw.githubusercontent.com/bguan-2018/BlockchainResearch/master/Digital%20Certificate%20Lab%203/certificate%20manager.png)
 
 In this case, We need to import `ca1.crt`, `ca2.crt`, `ca3.crt`. You will see a pop-up asking for the purpose of the certificates. Select _Trust this CA to identify websites_.
 
