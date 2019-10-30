@@ -13,7 +13,7 @@ For each lab module, you have to create a seperate **slice** in GENI, and reserv
 Set up your GENI Account
 
 1. Go to https://portal.geni.net and log in with your JHU ID. You may need to search for "Johns Hopkins" for the first time.
-2. After you are in the GENI Portal, find _Join the Project_ button and request to join the class project named **EN650601Labs**.
+2. After you are in the GENI Portal, find _Join the Project_ button and request to join the class project named **InfoSecClass2019**.
 3. Once you are approved to join the project, you can create your own experimental _slices_.
 
 For Windows users, please refer to these getting started series of [win-1](http://mountrouidoux.people.cofc.edu/CyberPaths/GettingStartedWindows.html) [win-2](http://mountrouidoux.people.cofc.edu/CyberPaths/GettingStartedWindowsHelloGENI.html).
