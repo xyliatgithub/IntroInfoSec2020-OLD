@@ -711,7 +711,7 @@ Import your `ca.crt` to trust the certificate. After that, visit https://jhuws.e
 Now, try to revoke the digital certificate. First, connect to the **ca** node and use this command to revoke the digital certificate.
 
 ```sh
-sudo openssl ca -revoke
+sudo openssl ca -revoke jhuws.crt
 ```
 
 You will see two messages, "Revoking Certificate XX(some number)" and "Data Base Updated." For example,
