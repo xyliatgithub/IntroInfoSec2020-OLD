@@ -26,7 +26,7 @@ In this topology, the `RootCA` node serves as a Certificate Authority (CA). But 
 
 ## Task0: Environment Setup
 
-Please refer to the `Environment Setup` section in "Lab 1" for specific software or library installation.
+Please refer to the `Environment Setup` section in "Module 1" for specific software or library installation.
 
 Here's a list of software/library packages that you need to install on each node:
 
