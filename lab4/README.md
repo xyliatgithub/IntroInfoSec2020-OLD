@@ -31,5 +31,5 @@ For Mac users, please refer to these guides of [mac-1](http://mountrouidoux.peop
 
 ## Grading
 
-- Completeness : All the steps as instructed in the lab manual must be included in the report with adequate evidence.
+- Completeness : All the steps as instructed in the lab manual must be included in the report with adequate evidence (using screenshots whenever useful).
 - Presentation : The report must be clear and correct in organization and writing with adequate explanation.
