@@ -140,6 +140,8 @@ Once the private key has been stored as the environment variable, let's jump bac
 > console.log(privateKey)
 ```
 
+_NOTE: Please also store that private key somewhere else, as you will still need to use your Ethereum account in lab2. I suggest you store it in any password manager._
+
 ## Task2: MetaMask Installation and Send an Ethereum transaction
 
 First, go to https://metamask.io/ to install MetaMask, which is a browser extension for accessing Ethereum network. Think of this as a GUI for Ethereum wallet application, so that you can view (your) account balance, view (your) transaction history, and send new transactions by using this application instead of writing your own code for achieving the same tasks. To use this application, you can either choose to create another account with the Metamask UI, or import existing accounts by providing a private key string or JSON key file. In this lab, we're going to _import the Ethereum account you created in Task1_!

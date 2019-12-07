@@ -212,6 +212,8 @@ Next, we will upload the CSR file that we generate earlier, which will be a **wr
 
 Install the version 1.3.7 library: `$ npm install ethereumjs-tx@1.3.7`
 
+_NOTE: Please don't forget to export the private key that you generated in lab1 as an environment variable!_
+
 ```javascript
 > const Tx = require("ethereumjs-tx")
 
@@ -294,6 +296,8 @@ $ openssl x509 -in server.crt -text -noout
 ```
 
 The next step is to upload that signed certificate to the smart contract so that the server node can utilize that signed certificate to setup a secure https connection. Don't forget to install ethereumjs-tx library! `$ npm install ethereumjs-tx@1.3.7`
+
+_NOTE: Please don't forget to export the private key that you generated in lab1 as an environment variable!_
 
 ```javascript
 > const Tx = require("ethereumjs-tx")
