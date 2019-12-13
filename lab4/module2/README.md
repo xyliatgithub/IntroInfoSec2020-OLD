@@ -401,7 +401,7 @@ Then let's move the bundled certificate file and server's private key to /etc/ss
 
 `$ sudo mv jhu-server.key /etc/ssl/`
 
-Now open up the file of `/etc/nginx/sites-enables/default` with your favorite text editor. Add the following three lines to enable SSL connections:
+Now open up the file of `/etc/nginx/sites-enabled/default` with your favorite text editor. Add the following three lines to enable SSL connections:
 
 ```
 listen 443 ssl;
