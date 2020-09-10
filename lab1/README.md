@@ -6,7 +6,7 @@ In this lab assignment, you will need to complete the CSRF lab module of the SEE
 ## Environment Setup
 
 Go to [Lab Environment Setup page](https://seedsecuritylabs.org/lab_env.html) to install the pre-built VM image (Ubuntu 16.04 32 bits). You cannot work on it on your personal machine.  
-- Install VirtualBox first
+- Install VirtualBox first, if you do not have it already
 - VM setup instruction (read carefully): http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Documents/SEEDVM_VirtualBoxManual.pdf
 - You only need one VM to do this lab, but you may still want to follow Appendix A to set up multiple VMs which will likely be used in future labs
 - User manual (contains the usernames and passowrds for the VM): http://www.cis.syr.edu/~wedu/seed/Documentation/Ubuntu16_04_VM/Ubuntu16_04_VM_Manual.pdf
