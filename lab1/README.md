@@ -13,12 +13,12 @@ Go to [Lab Environment Setup page](https://seedsecuritylabs.org/lab_env.html) to
 
 ## Cross-Site Request Forgery Attack Lab (50 points)
 
-Please thoroughly read through the [lab description](https://seedsecuritylabs.org/Labs_16.04/PDF/Web_CSRF_Elgg.pdf) and complete all the tasks listed on it. We recommend you to read the entire document before you start. You will need to write a detailed report with adequate screenshots and explanations, including your code and demonstration that your attacks are successful. 
+Please thoroughly read through the [lab description](https://seedsecuritylabs.org/Labs_16.04/PDF/Web_CSRF_Elgg.pdf) and complete all the tasks listed on it. We recommend you read the entire document before you start. You will need to write a detailed report with adequate screenshots and explanations, including your code and demonstration that your attacks are successful. 
 
 ## Submission Details
 
 - Due date of this assignment is announced on Blackboard.
-- You can work in a group of up to two people. Each group only needs to submit one report in PDF format.
+- Each group only needs to submit one report in PDF format.
 - Please list group members in your report explicitly.
 - Only typed reports are accepted.
 
