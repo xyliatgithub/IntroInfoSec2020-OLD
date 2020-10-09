@@ -1,6 +1,11 @@
 # Lab Assignment 2
 
-In this lab, each student team will complete several tasks in _Packet Sniffing and Spoofing_ and _TCP/IP Attack_ lab modules using SEED Lab Ubuntu 16.04 VM.
+In this lab, each student team will complete several tasks in _Packet Sniffing and Spoofing_ and _TCP/IP Attack_ lab modules using SEED Lab Ubuntu 16.04 VM. Basic knowledge of computer networking is strongly remcommended. 
+
+## Environment Setup
+
+You need 2 VMs for this lab. Additional instructions: http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Documents/SEEDVM_VirtualBoxManual.pdf
+
 
 ## 1. Packet Sniffing and Spoofing (35 points)
 
