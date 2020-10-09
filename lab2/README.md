@@ -16,6 +16,8 @@ https://seedsecuritylabs.org/Labs_16.04/PDF/Sniffing_Spoofing.pdf
 
 You only need to complete **Lab Task Set 1**, which includes four tasks: (1) Sniffing Packets, (2) Spoofing ICMP Packets, (3) Traceroute, and (4) Sniffing and then Spoofing.
 
+Sample code can be found here (From SEED Lab's author): https://github.com/kevin-w-du/BookCode/tree/master/Sniffing_Spoofing/Scapy
+
 ## 2. TCP/IP Attack (15 points)
 
 https://seedsecuritylabs.org/Labs_16.04/PDF/TCP_Attacks.pdf
