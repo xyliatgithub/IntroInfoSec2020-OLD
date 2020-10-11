@@ -28,7 +28,7 @@ Note that in this lab module you will use multiple VMs under the same private ne
 
 ## Submission Details
 
-- You can work in a group up to three students. Each group only needs to submit one report in PDF format.
+- Each group only needs to submit one report in PDF format.
 - Please list group members in your report explicitly.
 - Only typed reports are accepted.
 
