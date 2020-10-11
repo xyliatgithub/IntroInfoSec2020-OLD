@@ -7,7 +7,7 @@ Basic knowledge of computer networking is remcommended. To get the most out of t
 
 ## Environment Setup
 
-You need 2 VMs for this lab. Additional instructions: http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Documents/SEEDVM_VirtualBoxManual.pdf Pay special attention when you set up the networking of the VMs.
+You need multiple VMs for this lab. Additional instructions: http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Documents/SEEDVM_VirtualBoxManual.pdf Pay special attention when you set up the networking of the VMs.
 
 
 ## 1. Packet Sniffing and Spoofing (35 points)
