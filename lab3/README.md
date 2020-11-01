@@ -4,7 +4,7 @@
 
 To get you a grasp of how PKI works, this lab simulates the issuance, revocation, and installation process of digital certificates. Specifically, you will do all your experiments in the GENI environment, and go through those processes with the help of OpenSSL, a widely used cryptographic toolkit. The tasks in this assignment are divided into two lab modules. The first module focuses on certificate issuance and revocation, while the second module focuses on the chain of trust. Since there are quite a few overlaps between these two modules, getting familiar with the first module will dramatically speed up your pace in the second one. It is recommended that you complete the first module before you move on to the second one.
 
-**Note: You only need to complete Module 1 and Two Additional Tasks.**
+**Note: You only need to complete Module 1 and Two Additional Tasks as below.**
 
 ## Environment Setup
 
