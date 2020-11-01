@@ -36,7 +36,7 @@ Please complete (1) and (2) in the Additional Tasks section in Module 1, as list
 ## Submission Details
 
 - Each group only needs to submit one report in PDF format. Please list group members in your report explicitly.
-- **_Use your team name(initials of your team members) instead of "jhuws" in the assignment and include screeshots for each sections in your report._**
+- **_Use your team name (initials of your team members) instead of "jhuws" in the assignment and include screeshots for each sections in your report._**
 - Only typed reports are accepted.
 
 ## Grading
