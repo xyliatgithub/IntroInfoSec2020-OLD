@@ -752,9 +752,9 @@ curl https://jhuws.edu --cacert ca.crt --crlfile ca.crl
 
 You will see there's an error complaining the certificate was revoked.
 
-## Questions
+## Additional Tasks
 
-1. Find out one of the digital certificate stored on your laptop. Screenshot the digital certificate you found on your laptop.
+1. Find out one of the digital certificate already stored on your laptop. Screenshot the digital certificate you found on your laptop.
 
 2. X.509 is a popular SSL digital certificate standard, what content is included in the digital certificate in X.509 standard? Check the content in our digital certificate, screen shot it.
 
